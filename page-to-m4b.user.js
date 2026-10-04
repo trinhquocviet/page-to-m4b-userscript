@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Page to M4B
 // @namespace    https://page-to-m4b.viettr.work/
-// @version      2.0.0
+// @version      0.1.0
 // @author       Viet Trinh
 // @description  Convert audiobook pages to chaptered .m4b files, entirely in your browser.
 // @license      MIT
